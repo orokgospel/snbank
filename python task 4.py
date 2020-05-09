@@ -7,7 +7,7 @@ bc=open("customer.txt",'a+')
 def staffLogin():
     print("WELCOME TO SN-BANK LOGIN")
     while True:
-        print("\nEnter 'Staff' to Login\n"
+        print("\nEnter 'login' to Login\n"
               "Enter 'create' to Register as Staff\n"
               "Enter 'check' to check your account details\n"
               "Enter 'logout' to Close App")
